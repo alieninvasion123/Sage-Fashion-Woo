@@ -217,7 +217,7 @@ header .logo a {
 }
 
 footer {
-    background-color: darkorchid;
+    background-color: black;
 }
 
 footer.footer {
@@ -240,7 +240,7 @@ footer.footer > div::after {
     display: block;
     position: relative;
     height: 50px;
-    background: #7A207D;
+    background: black;
     content: "";
 }
 
