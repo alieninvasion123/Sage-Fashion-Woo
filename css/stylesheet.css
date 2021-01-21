@@ -232,6 +232,7 @@ footer.footer > div {
     text-align: center;
     display: block;
     line-height: 50px;
+    background: black;
 }
 
 footer.footer > div::after {
@@ -240,7 +241,7 @@ footer.footer > div::after {
     display: block;
     position: relative;
     height: 50px;
-    background: black;
+
     content: "";
 }
 
