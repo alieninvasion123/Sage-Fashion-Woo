@@ -113,7 +113,7 @@ header .logo a {
 }
 
 .horizontal a {
-    color: black; //menu
+    color: #333333;
     display: block;
     text-decoration: none;
     font-weight: bold;
