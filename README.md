@@ -1,2 +1,2 @@
 # Sage-Fashion-Woo
-all about fashion
+An African heritage fashion with colourful and quality fabric.
