@@ -224,7 +224,7 @@ footer {
 
 footer.footer {
     width: 100%;
-    text-align: center;
+    text-align: left;
     color: white;
     height: 50px;
 }
